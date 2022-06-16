@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Matthew Grobstein. I am a student at Bloomtech, learning full-stack web development. I love learning and coding! I have 6 degrees and professional certifications across various science fields and I'm now moving into computer science. I'm mostly interested in learning full-stack because I enjoy an eclectic work load. Please feel free to email me at mgrobst1@binghamton.edu
+
 
 <!--
 **mgrobstein/mgrobstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
