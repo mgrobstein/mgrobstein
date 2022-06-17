@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Matthew Grobstein. I am a student at Bloomtech, learning full-stack web development. I love learning and coding! I have 6 degrees and professional certifications across various science fields and I'm now moving into computer science. I'm mostly interested in learning full-stack because I enjoy an eclectic work load. Please feel free to email me at mgrobst1@binghamton.edu
+My name is Matthew Grobstein. I am a student at Bloomtech, learning full-stack web development. I love learning and coding! I have 6 degrees and professional certifications across various science fields and I'm now moving into computer science. I'm mostly interested in learning full-stack because I enjoy an eclectic work load. Please feel free to email me at mgrobst1@binghamton.edu. Skills include: Node.js, Express, Postman, HTTPie, VScode, Heroku, SQL, GitHub, Axios, JavaScript, HTML, CSS, React, Redux, Jest, Agile Project Management, Mathematics, Science Literacy, Debugging, Deployment
 
 
 <!--
